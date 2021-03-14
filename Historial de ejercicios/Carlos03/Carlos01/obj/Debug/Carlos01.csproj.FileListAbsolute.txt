@@ -1,0 +1,44 @@
+C:\Users\carlj\Documents\Protectos clase de programacion\Carlos01\Carlos01\bin\Debug\Carlos01.exe.config
+C:\Users\carlj\Documents\Protectos clase de programacion\Carlos01\Carlos01\bin\Debug\Carlos01.exe
+C:\Users\carlj\Documents\Protectos clase de programacion\Carlos01\Carlos01\bin\Debug\Carlos01.pdb
+C:\Users\carlj\Documents\Protectos clase de programacion\Carlos01\Carlos01\obj\Debug\Carlos01.csprojAssemblyReference.cache
+C:\Users\carlj\Documents\Protectos clase de programacion\Carlos01\Carlos01\obj\Debug\Carlos01.Form1.resources
+C:\Users\carlj\Documents\Protectos clase de programacion\Carlos01\Carlos01\obj\Debug\Carlos01.Properties.Resources.resources
+C:\Users\carlj\Documents\Protectos clase de programacion\Carlos01\Carlos01\obj\Debug\Carlos01.csproj.GenerateResource.cache
+C:\Users\carlj\Documents\Protectos clase de programacion\Carlos01\Carlos01\obj\Debug\Carlos01.csproj.CoreCompileInputs.cache
+C:\Users\carlj\Documents\Protectos clase de programacion\Carlos01\Carlos01\obj\Debug\Carlos01.exe
+C:\Users\carlj\Documents\Protectos clase de programacion\Carlos01\Carlos01\obj\Debug\Carlos01.pdb
+C:\Users\carlj\Documents\Protectos clase de programacion\Carlos01\Carlos01\obj\Debug\Carlos01.Vista.FrmMenu.resources
+C:\Users\carlj\Documents\GitHub\CarlosProgram1\Carlos02\Carlos01\bin\Debug\Carlos01.exe.config
+C:\Users\carlj\Documents\GitHub\CarlosProgram1\Carlos02\Carlos01\bin\Debug\Carlos01.exe
+C:\Users\carlj\Documents\GitHub\CarlosProgram1\Carlos02\Carlos01\bin\Debug\Carlos01.pdb
+C:\Users\carlj\Documents\GitHub\CarlosProgram1\Carlos02\Carlos01\obj\Debug\Carlos01.csprojAssemblyReference.cache
+C:\Users\carlj\Documents\GitHub\CarlosProgram1\Carlos02\Carlos01\obj\Debug\Carlos01.Form1.resources
+C:\Users\carlj\Documents\GitHub\CarlosProgram1\Carlos02\Carlos01\obj\Debug\Carlos01.Properties.Resources.resources
+C:\Users\carlj\Documents\GitHub\CarlosProgram1\Carlos02\Carlos01\obj\Debug\Carlos01.Vista.FrmMenu.resources
+C:\Users\carlj\Documents\GitHub\CarlosProgram1\Carlos02\Carlos01\obj\Debug\Carlos01.csproj.GenerateResource.cache
+C:\Users\carlj\Documents\GitHub\CarlosProgram1\Carlos02\Carlos01\obj\Debug\Carlos01.csproj.CoreCompileInputs.cache
+C:\Users\carlj\Documents\GitHub\CarlosProgram1\Carlos02\Carlos01\obj\Debug\Carlos01.exe
+C:\Users\carlj\Documents\GitHub\CarlosProgram1\Carlos02\Carlos01\obj\Debug\Carlos01.pdb
+C:\Users\carlj\Documents\GitHub\CarlosProgram1\Carlos02\Carlos01\obj\Debug\Carlos01.Vista.FrmListaVisualDeusuarios.resources
+C:\Users\carlj\Documents\GitHub\CarlosProgram1\Carlos02\Carlos01\obj\Debug\Carlos01.Vista.FrmAcercaDe.resources
+C:\Users\carlj\Documents\GitHub\CarlosProgram1\Carlos03\Carlos01\bin\Debug\Carlos01.exe.config
+C:\Users\carlj\Documents\GitHub\CarlosProgram1\Carlos03\Carlos01\bin\Debug\Carlos01.exe
+C:\Users\carlj\Documents\GitHub\CarlosProgram1\Carlos03\Carlos01\bin\Debug\Carlos01.pdb
+C:\Users\carlj\Documents\GitHub\CarlosProgram1\Carlos03\Carlos01\obj\Debug\Carlos01.csprojAssemblyReference.cache
+C:\Users\carlj\Documents\GitHub\CarlosProgram1\Carlos03\Carlos01\obj\Debug\Carlos01.Properties.Resources.resources
+C:\Users\carlj\Documents\GitHub\CarlosProgram1\Carlos03\Carlos01\obj\Debug\Carlos01.Vista.FrmAcercaDe.resources
+C:\Users\carlj\Documents\GitHub\CarlosProgram1\Carlos03\Carlos01\obj\Debug\Carlos01.Vista.FrmListaVisualDeusuarios.resources
+C:\Users\carlj\Documents\GitHub\CarlosProgram1\Carlos03\Carlos01\obj\Debug\Carlos01.Vista.FrmMenu.resources
+C:\Users\carlj\Documents\GitHub\CarlosProgram1\Carlos03\Carlos01\obj\Debug\Carlos01.csproj.GenerateResource.cache
+C:\Users\carlj\Documents\GitHub\CarlosProgram1\Carlos03\Carlos01\obj\Debug\Carlos01.csproj.CoreCompileInputs.cache
+C:\Users\carlj\Documents\GitHub\CarlosProgram1\Carlos03\Carlos01\obj\Debug\Carlos01.exe
+C:\Users\carlj\Documents\GitHub\CarlosProgram1\Carlos03\Carlos01\obj\Debug\Carlos01.pdb
+C:\Users\carlj\Documents\GitHub\CarlosProgram1\Carlos03\Carlos01\obj\Debug\Carlos01.FrmLogin.resources
+C:\Users\carlj\Documents\GitHub\CarlosProgram1\Carlos03\Carlos01\obj\Debug\Carlos01.Vista.FrmOperaciones.resources
+C:\Users\carlj\Documents\GitHub\CarlosProgram1\Carlos03\Carlos01\bin\Debug\EntityFramework.dll
+C:\Users\carlj\Documents\GitHub\CarlosProgram1\Carlos03\Carlos01\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\carlj\Documents\GitHub\CarlosProgram1\Carlos03\Carlos01\bin\Debug\EntityFramework.xml
+C:\Users\carlj\Documents\GitHub\CarlosProgram1\Carlos03\Carlos01\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\carlj\Documents\GitHub\CarlosProgram1\Carlos03\Carlos01\obj\Debug\Carlos01.Vista.FrmUsuarios.resources
+C:\Users\carlj\Documents\GitHub\CarlosProgram1\Carlos03\Carlos01\obj\Debug\Carlos01.csproj.CopyComplete
